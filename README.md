@@ -57,28 +57,6 @@ git clone https://github.com/your-username/synthetic-healthcare-evaluation.git
 cd synthetic-healthcare-evaluation
 pip install -r requirements.txt
 
-5. **Measure Computational Efficiency**: Offer insights into the computational cost of generating synthetic data.
-
 ---
 
-## **Table of Contents**
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Evaluation Framework](#evaluation-framework)
-   - Reality, Diversity, Quality, and Privacy
-   - Fairness Metrics
-4. [Visualization Tools](#visualization-tools)
-5. [Computational Complexity](#computational-complexity)
-6. [Contributing](#contributing)
-7. [License](#license)
 
----
-
-## **Installation**
-
-Clone the repository and install the required dependencies using `pip`:
-
-```bash
-git clone https://github.com/your-username/synthetic-healthcare-evaluation.git
-cd synthetic-healthcare-evaluation
-pip install -r requirements.txt
